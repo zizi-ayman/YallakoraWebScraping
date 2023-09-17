@@ -1,2 +1,2 @@
 # YallakoraWebScraping
-Web scraping python script that get today information about matchs on www.yallakora.com site
+Web scraping Python script that gets today's information about matches on the www.yallakora.com site and puts it in an Excel file sheet
